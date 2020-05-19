@@ -1,0 +1,65 @@
+.box {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #000;
+}
+
+.icons {
+	list-style-type: none;
+	display: flex;
+	justify-content: space-between;
+	width: 300px;
+}
+
+.icons li {
+	font-size: 30px;
+	
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+	
+}
+
+.a1 {
+	color: red;
+	border-color: red;	
+	box-shadow: 0 0 35px 10px red;
+}
+
+.a2 {
+	color: blue;
+	border-color: blue;	
+	box-shadow: 0 0 35px 10px blue;
+}
+
+.a3 {
+	color: green;
+	border-color: green;	
+	box-shadow: 0 0 35px 10px green;
+}
+
+.a4 {
+	color: purple;
+	border-color: purple;	
+	box-shadow: 0 0 35px 10px purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
